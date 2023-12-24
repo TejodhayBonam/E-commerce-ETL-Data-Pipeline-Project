@@ -77,7 +77,7 @@ it's necessary to consult the `Excel2PostgresLoader.py` script and change these 
 
 1. Clone this repository to your local machine using the following command:
  ```bash
-pip clone https://github.com/aymane-maghouti/Jumia-data-pipeline.git
+pip clone https://github.com/TejodhayBonam/E-commerce-ETL-Data-Pipeline-Project.git
 ```
    
 2. Install the required libraries using the following command:
