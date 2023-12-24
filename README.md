@@ -132,4 +132,4 @@ Feel free to customize the content and functionality  according to your specific
 
 ## Contacts
 
-<a href="https://www.linkedin.com/in/aymane-maghouti/" target="_blank">Aymane Maghouti</a><br>
+<a href="https://www.linkedin.com/in/tejodhay-bonam-66b3661b0/" target="_blank">Tejodhay Bonam</a><br>
